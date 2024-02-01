@@ -1,0 +1,2 @@
+# rewrites2hosts
+将AdGuardHome的DNS重写规则转换成Hosts格式
